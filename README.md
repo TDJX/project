@@ -1,4 +1,5 @@
 # Система контроля качества строительных работ для подрядной организации
+![Иллюстрация к проекту](https://png.pngtree.com/png-clipart/20190925/original/pngtree-under-construction-building-work-process-with-construction-machines-vector-illustration-png-image_4888925.jpg)
 ## Проблемы
 - безответственный подход сотрудников к рабочему процессу: невыполнение задач в срок, порча и воровство строительных материалов;
 - беспорядочный документооборот в мессенджерах;
